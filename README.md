@@ -1,6 +1,6 @@
 ### Hi there and welcome to my GitHub page 👋
+---
 ![banner](GitHubBanner.jpg "banner")
-
 <p>
   <img alt="SharePoint" src="https://img.shields.io/badge/SharePoint-0078D4?logo=microsoft sharepoint&logoColor=white&style=flat" />
   <img alt="C#" src="https://img.shields.io/badge/C Sharp-239120?logo=c sharp&logoColor=white&style=flat" />
@@ -15,8 +15,12 @@
  
  ---
  
- ### You can find me @
- <p>
+###### I have been involved in SharePoint and Custom .NET development for over 10 years. As a #MumInTech, it's especially important to me to provide a healthy and pragmatic view of IT and therefore never miss an opportunity to tinker and code with my seven-year-old son as he needs. In addition, I am involved as a mentor with CyberMentor, an online STEM platform just for girls, where I regularly mentor mentees interested in technology and IT.
+ 
+ ---
+ 
+ ### 📮 You can find me @
+<p>
 <a href="https://twitter.com/MamaCodet">
   <img
     alt="Twitter"
@@ -39,7 +43,7 @@
   
 ---
 
-### My stats
+### 📈 My stats
 <img 
 src="https://github-readme-stats.vercel.app/api?username=MamaCodet&count_private=true&theme=radical&custom_title=MamaCodet's+GitHub+Stats&show_icons=true"
 />
