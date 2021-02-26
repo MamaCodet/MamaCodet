@@ -1,5 +1,3 @@
-### Hi there and welcome to my GitHub page 👋
----
 ![banner](GitHubBanner.jpg "banner")
 <p>
   <img alt="SharePoint" src="https://img.shields.io/badge/SharePoint-0078D4?logo=microsoft sharepoint&logoColor=white&style=flat" />
@@ -15,31 +13,15 @@
  
  ---
  
-###### I have been involved in SharePoint and Custom .NET development for over 10 years. As a #MumInTech, it's especially important to me to provide a healthy and pragmatic view of IT and therefore never miss an opportunity to tinker and code with my seven-year-old son as he needs. In addition, I am involved as a mentor with CyberMentor, an online STEM platform just for girls, where I regularly mentor mentees interested in technology and IT.
+###### <samp>I have been involved in SharePoint and Custom .NET development for over 10 years. As a #MumInTech, it's especially important to me to provide a healthy and pragmatic view of IT and therefore never miss an opportunity to tinker and code with my seven-year-old son as he needs. In addition, I am involved as a mentor with CyberMentor, an online STEM platform just for girls, where I regularly mentor mentees interested in technology and IT.</samp>
  
  ---
  
  ### 📮 You can find me @
-<p>
-<a href="https://twitter.com/MamaCodet">
-  <img
-    alt="Twitter"
-    src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat"
-  />
-</a>
-<a href="https://www.linkedin.com/in/kornbergerg/">
-  <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
-  />
-</a>
-<a href="https://www.instagram.com/gabriellakornberger/">
-  <img
-    alt="Instagram"
-    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat"
-  />
-</a>
-</p>
+[![Twitter: ](https://img.shields.io/twitter/follow/MamaCodet?label=Follow)](https://twitter.com/intent/follow?screen_name=MamaCodet)
+[![Linkedin: ](https://img.shields.io/badge/-kornbergerg-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kornbergerg/)](https://www.linkedin.com/in/kornbergerg/)
+[![Instagram Badge](https://img.shields.io/badge/-mamacodet-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/gabriellakornberger/)](https://instagram.com/gabriellakornberger)
+![GitHub followers](https://img.shields.io/github/followers/MamaCodet?label=Follow&style=social)
   
 ---
 
