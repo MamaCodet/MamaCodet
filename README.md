@@ -13,7 +13,7 @@
  
  ---
  
-###### <samp>I have been involved in SharePoint and Custom .NET development for over 10 years. As a #MumInTech, it's especially important to me to provide a healthy and pragmatic view of IT and therefore never miss an opportunity to tinker and code with my seven-year-old son as he needs. In addition, I am involved as a mentor with CyberMentor, an online STEM platform just for girls, where I regularly mentor mentees interested in technology and IT.</samp>
+###### <samp>I have been involved in SharePoint and Custom .NET development for over 10 years. As a #MumInTech, it's especially important to me to provide a healthy and pragmatic view of IT and therefore never miss an opportunity to tinker and code with my seven-year-old son as he needs. In addition, I am involved as a mentor with CyberMentor, an online STEM platform just for girls, where I regularly mentor young mentees interested in technology and IT.</samp>
  
  ---
  
