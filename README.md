@@ -22,6 +22,7 @@
 [![Linkedin: ](https://img.shields.io/badge/-kornbergerg-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kornbergerg/)](https://www.linkedin.com/in/kornbergerg/)
 [![Instagram Badge](https://img.shields.io/badge/-mamacodet-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/gabriellakornberger/)](https://instagram.com/gabriellakornberger)
 ![GitHub followers](https://img.shields.io/github/followers/MamaCodet?label=Follow&style=social)
+[![Visits Badge](https://badges.pufler.dev/visits/MamaCodet/MamaCodet)](https://github.com/MamaCodet)
   
 ---
 
